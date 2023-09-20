@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src/",
+    "paths": {
+      "@components/*": [
+        "components/*"
+      ],
+      "@context/*": [
+        "contexts/*"
+      ],
+      "@scenes/*": [
+        "scenes/*"
+      ],
+      "@theme/*": [
+        "theme/*"
+      ],
+      "@tools/*": [
+        "tools/*"
+      ],
+      "@data/*": [
+        "data/*"
+      ],
+      "@services/*": [
+        "services/*"
+      ],
+      "@styles/*": [
+        "styles/*"
+      ],
+    }
+  }
+}
+/* 
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  }
+} */
